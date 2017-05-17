@@ -1,5 +1,5 @@
 <?php
 
-$a="hello wor";
+$a="NONONO";
 echo $a;
 ?>
